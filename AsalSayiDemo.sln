@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsalSayiDemo", "AsalSayiDemo\AsalSayiDemo.csproj", "{7C63A4E5-EB28-462C-9871-5F412CAB2A4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulakatDemo", "MulakatDemo\MulakatDemo.csproj", "{B4281977-978C-410B-AEAC-81CE0F7FB266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C63A4E5-EB28-462C-9871-5F412CAB2A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C63A4E5-EB28-462C-9871-5F412CAB2A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C63A4E5-EB28-462C-9871-5F412CAB2A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C63A4E5-EB28-462C-9871-5F412CAB2A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4281977-978C-410B-AEAC-81CE0F7FB266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4281977-978C-410B-AEAC-81CE0F7FB266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4281977-978C-410B-AEAC-81CE0F7FB266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4281977-978C-410B-AEAC-81CE0F7FB266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6DBC093-A81A-405C-B2AD-04E6E56E0E70}
+	EndGlobalSection
+EndGlobal
